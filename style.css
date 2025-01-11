@@ -1,35 +1,25 @@
 #wrapper {
+    max-width: 600px;
     margin: 0 auto;
-    width: 100%;
-    max-width: 1000px;
+}
+.header-container {
+    background-color: #7549ea;
 }
 
 * {
     font-family: "HK Nova",sans-serif;
 }
 
-.header-content {
-    display: flex;
-    align-items: center;
-    background-color: #7549ea;
-    color: white;
-    font-weight: bold;
-    text-align: center;
-    font-size: 250%;
-    justify-content: center;
-}
-
 .header {
-    margin: 0;
-    top: 50%;
-}
-
-h1 img {
-    margin-left: 10px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 300%;
+    margin: 10px;
 }
 
 .recipe-list {
-    color: #7549ea;
-    list-style: inside;
-    font-weight: 300;
+    background-color: #71ecca;
+    padding: 10px;
+    list-style-position: inside;
 }
