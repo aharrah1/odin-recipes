@@ -1,0 +1,26 @@
+#wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image-container {
+    margin: 0 auto;
+    background-color: chartreuse;
+}
+
+.recipe-image {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 5%;
+    padding-top: 2.5%;
+    width: 25%;
+}
+
+.header {
+    text-align: center;
+}

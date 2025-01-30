@@ -1,5 +1,5 @@
 #wrapper {
-    max-width: 600px;
+    max-width: 900px;
     margin: 0 auto;
 }
 .header-container {
@@ -7,7 +7,7 @@
 }
 
 * {
-    font-family: "HK Nova",sans-serif;
+    font-family: "Comic Sans",sans-serif;
 }
 
 .header {
@@ -22,4 +22,5 @@
     background-color: #71ecca;
     padding: 10px;
     list-style-position: inside;
+    font-size: larger;
 }
